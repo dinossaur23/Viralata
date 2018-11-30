@@ -1,0 +1,14 @@
+# Ignore files
+/Binaries
+
+/DerivedDataCache
+
+/Intermediate
+
+/Saved
+
+*.sln
+
+*.sdf
+
+*.suo
